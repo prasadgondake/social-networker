@@ -2,10 +2,10 @@
 *{
     font-family: "Montserrat", sans-serif;
 }
-html,body{
+/* html,body{
     overflow-x: hidden !important;
-    /* overflow-y: hidden !important; */
-}
+    overflow-y: hidden !important;
+} */
 .card-sm{
     box-shadow: 0 0 1px gray
 }
